@@ -23,7 +23,7 @@ Exploring my projects and repositories is an ongoing journey of learning and ref
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,sass,nextjs,tailwind,mysql,postgres,sqlite,git,github,java,bootstrap,figma,sequelize,visualstudio,vite,vscode,vercel&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,sass,tailwind,mongodb,mysql,postgres,sqlite,git,github,python,bootstrap,figma,sequelize,visualstudio,vite,vscode,vercel&perline=12" />
   </a>
 </p>
  
