@@ -35,7 +35,7 @@ Exploring my projects and repositories is an ongoing journey of learning and ref
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEwbXYwa3RsNGxocGtsNTk5b2c3em9pMWwwdGQzNW54aGtwM2ZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/andresrodriguezabraham1998/">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/andresrodriguezab/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="31" alt="linkedin logo"  />
 </a>
 <br/>
